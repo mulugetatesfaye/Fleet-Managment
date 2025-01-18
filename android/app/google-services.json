@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626509826575",
+    "project_id": "fleet-mgmnt-2025",
+    "storage_bucket": "fleet-mgmnt-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626509826575:android:cb618c454d3b12eb05f17a",
+        "android_client_info": {
+          "package_name": "com.muler.vehicle_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEStAe8ftyKdxr3-VPIh-cVys7s_-MWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
